@@ -21,8 +21,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/yuossfalaa/yuossfalaa/output/snake.svg" alt="Snake animation" />
-
-###
