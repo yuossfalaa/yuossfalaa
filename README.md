@@ -1,8 +1,8 @@
 <br clear="both">
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuossfalaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  style="margin: 10px;"/>
-  <img src="https://streak-stats.demolab.com?user=yuossfalaa&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuossfalaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  style="margin: 100px;"/>
+  <img src="https://streak-stats.demolab.com?user=yuossfalaa&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  style="margin: 100px;"/>
 </div>
 
 ###
