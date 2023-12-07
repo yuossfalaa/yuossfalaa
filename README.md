@@ -23,14 +23,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
+For Business contact me [here](fiverr.com/yuossf_alaa)
 
-<br clear="both">
-
-<div align="center">
-  <a href="fiverr.com/yuossf_alaa" target="_blank">
-    <h3 align="center">For Business contact me here </h3>
-  </a>
-</div>
-
-###
-###
